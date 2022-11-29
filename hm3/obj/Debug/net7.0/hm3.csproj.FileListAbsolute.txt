@@ -1,0 +1,15 @@
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\obj\Debug\net7.0\hm3.csproj.AssemblyReference.cache
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\obj\Debug\net7.0\hm3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\obj\Debug\net7.0\hm3.AssemblyInfoInputs.cache
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\obj\Debug\net7.0\hm3.AssemblyInfo.cs
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\obj\Debug\net7.0\hm3.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\bin\Debug\net7.0\hm3.exe
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\bin\Debug\net7.0\hm3.deps.json
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\bin\Debug\net7.0\hm3.runtimeconfig.json
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\bin\Debug\net7.0\hm3.dll
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\bin\Debug\net7.0\hm3.pdb
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\obj\Debug\net7.0\hm3.dll
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\obj\Debug\net7.0\refint\hm3.dll
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\obj\Debug\net7.0\hm3.pdb
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\obj\Debug\net7.0\hm3.genruntimeconfig.cache
+C:\Users\Георгий\Desktop\Учеба айти\dz\hm3\obj\Debug\net7.0\ref\hm3.dll
